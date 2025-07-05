@@ -3,6 +3,6 @@ Sou estudante de Análise e desenvolvimento de Sistemas na Universidade Católic
 ### Contatos
 <div>
   <a href="https://www.linkedin.com/in/letícia-ximenes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
-  <a href="leticia.ximenesparreiras@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
+  <a href="mailto:leticia.ximenesparreiras@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
   <a></a>
 </div>
